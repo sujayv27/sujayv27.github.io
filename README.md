@@ -12,7 +12,7 @@
 ### [Quantitative Investment Strategies AlgoQuants Team] – Nomura, Powai Office (Jun 2019-Present) 
 
 #### Project: Development of new indices on Reflex platform (Mar 2020-Present)
-- Collaborated across teams on the ideation,testing and on-boarding of Nomura’s new multi-asset suite of indices Nomura Fixed Income Beta Indices on the Reflex Framework. Theindices deliver a liquid and efficient approach to yield and risks of cash bond portfolio.
+- Collaborated across teams on the ideation,testing and on-boarding of Nomura’s new multi-asset suite of indices Nomura Fixed Income Beta Indices on the Reflex Framework. The indices deliver a liquid and efficient approach to yield and risks of cash bond portfolio.
 - Collaborated with fellow team members on the development of reflex script for migration of CoLRS (Nomura commodity indices).
   
 #### Project: Greeks based PnL Explanation (Sep 2022-Present) 
@@ -33,7 +33,7 @@ producing risk numbers to trading desk.
 ## Corporate Internship 
 ### [Quant and Algorithmic Division Intern] – Nomura, Powai Office (May 2018-Jul 2018) 
 #### Project: Developed a Q-Learning based Model, for predicting the optimal strategy for a mean reverting portfolio
-- Analysed and replicated the underlying theory of the research by Gordon Ritter - Machine Learning in Trading 
+- Analysed and replicated the underlying theory of the research by Gordon Ritter named Machine Learning in Trading 
 
 ## Academic & Technical Projects
 ### [Stock Market Analysis & Forecasting, Regression Analysis] – Mentor: Prof Sharmishtha Mitra (Jan 2017-Apr 2017) 
