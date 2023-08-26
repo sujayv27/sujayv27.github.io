@@ -50,6 +50,7 @@ producing risk numbers to trading desk.
 #### Initiatives 
 - Introduced “The Science Weekend”, a pioneer festival initiative; series of weekly posters containing historical,interesting information about scientific inventions and discoveries with a reach of more than 20K
 - Initiated Instagram channel of Techkriti with future marketing and publicity prospects.
+  
 #### Leadership
 - Spearheaded a 3-tier team of 40 members and 200 volunteers to bring media sponsors for the festival 
 - Established corporate relations for media sponsorship with more than 50 media firms
