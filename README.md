@@ -1,6 +1,7 @@
 # Personal Details
 
 Name : Sujay Vishwakarma
+
 Email : sujayvishwakarma27@gmail.com
 
 # Idea
