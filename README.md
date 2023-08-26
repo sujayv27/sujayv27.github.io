@@ -13,12 +13,15 @@
 - Collaborated acrossteams on the ideation,testing and on-boarding of Nomura’s newmulti-assetsuiteof indicesNomura Fixed Income 
 Beta Indices on the Reflex Framework. Theindices deliver a liquid and efficient approach to yield and risks of cash bond portfolio.
 - Collaborated with fellow team members on the development of reflex script for migration of CoLRS (Nomura commodity indices)
+  
 #### Project: Greeks based PnL Explanation (Sep 2022-Present) 
 - The proposed project is to breakdown theperformance of swaption-based indices as a P&L distribution over the swaptionGreeks. The 
 - The implementation was done for Nomura Rates Vega indices and Nomura IVRPindices to facilitateclient reporting.
+  
 #### Project: FX Vol Option Analytics (Sep 2022-Present) 
 - Collaborated with traders, Quants and Tech teams to build up the analytics for FX Vol Analytics platform to be consumed.
-- Worked on the ON, monthly and quarterlytenor based implied vs realized spot jump, FX Eventimpact and backgroundvol analysis 
+- Worked on the ON, monthly and quarterlytenor based implied vs realized spot jump, FX Eventimpact and backgroundvol analysis
+  
 #### Project: Support to Legacy index calculators (Jun 2019-May2021) 
 - Worked on the migration of different time schedulers and updating the code base of Juno framework strategies to be compatible for 
 new production servers. 
@@ -36,6 +39,7 @@ producing risk numbers to trading desk.
 - Fitted a Multiple Linear Regressive Model on the closing price of Indian equities, hypothesized as dependent on other factors 
 - Transformed model variable data using Box-cox transformation and tested it for model significance and multi collinearity 
 - Simulated the statistical model accuracy tests using python codes and showed the higher efficiency of MLR to SLR for prediction
+  
 ## Scholastic Achievements 
 - Awarded Kishore Vaigyanik Protsahan Yojna (KVPY) Scholarship and secured All India Rank 434 in year 2014 
 - Awarded National Talent Search (NTS) Scholarship in 2011 and selected among the top 50 for NTS camp held at RIE, Bhopal
